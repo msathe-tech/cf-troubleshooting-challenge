@@ -1,0 +1,5 @@
+---
+applications:
+- name: tricky-05
+  instances: 1
+  memory: 100M

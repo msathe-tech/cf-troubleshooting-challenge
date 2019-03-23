@@ -1,0 +1,10 @@
+{
+  "name": "tricky-05",
+  "version": "0.0.1",
+  "author": "Yauheni Kisialiou <yauheni.kisialiou@altoros.com",
+  "description": "sample app for CF troubleshooting challenge",
+  "dependencies" : [ ],
+  "engines": {
+    "node": ">=0.10"
+  }
+}
