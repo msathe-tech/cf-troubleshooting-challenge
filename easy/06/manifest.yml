@@ -1,0 +1,11 @@
+---
+applications:
+- name: easy-06
+  instances: 1
+  memory: 100M
+  routes:
+  - route: apps.internal
+  buildpacks: 
+  - go_buildpack
+  env:
+    GOPACKAGENAME: main
